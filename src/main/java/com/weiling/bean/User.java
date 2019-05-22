@@ -6,6 +6,7 @@ public class User {
 	private Integer id;
 	private String name;
 	private String password;
+<<<<<<< HEAD
 	public User() {
 		// TODO Auto-generated constructor stub
 	}
@@ -38,4 +39,10 @@ public class User {
 	}
 
 
+=======
+	private Integer age;
+	private Date riqi;
+	private String dizhi;
+	
+>>>>>>> User实体类修改
 }
