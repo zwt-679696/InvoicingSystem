@@ -12,7 +12,6 @@ public class Back {
 	private String buser;
 	private String beizhu;
 	public Back() {
-		// TODO Auto-generated constructor stub
 	}
 	public Back(Integer id, String pname, String cname, Double bprice, Integer bnum, Date bdate, String buser,
 			String beizhu) {
