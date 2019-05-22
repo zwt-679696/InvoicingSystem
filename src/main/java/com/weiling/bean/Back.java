@@ -12,6 +12,7 @@ public class Back {
 	private String buser;
 	private String beizhu;
 	public Back() {
+		//测试git
 	}
 	public Back(Integer id, String pname, String cname, Double bprice, Integer bnum, Date bdate, String buser,
 			String beizhu) {
