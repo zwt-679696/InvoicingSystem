@@ -5,6 +5,6 @@
 <configuration>
     <!-- 设置别名 -->
     <typeAliases>
-        <package name="com.bean" />
+        <package name="com.weiling.bean" />
     </typeAliases>
 </configuration>
